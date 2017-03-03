@@ -1,0 +1,6 @@
+test.
+
+# Turn rewriting on
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule .* /index.php
